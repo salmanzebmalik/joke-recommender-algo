@@ -1,0 +1,6 @@
+Flask==2.0.3
+Werkzeug==2.0.3
+pandas==1.5.3
+surprise==0.1.0
+numpy==1.23.0
+
